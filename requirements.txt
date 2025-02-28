@@ -1,0 +1,7 @@
+kivy
+requests
+fastapi
+uvicorn
+streamlit
+finnhub-python
+tradingview-ta
